@@ -1,4 +1,4 @@
-# Actividad Presencial I
+# Desafio Guiado Autenticación Manual
 ## Autenticación Manual desde cero
 
 
@@ -12,7 +12,7 @@ El objetivo de este ejercicio es la implementación de un sistema de autenticaci
 Forkear el proyecto a tu cuenta de Github y luego clonar en tu entorno de desarrollo local
 
 ```
-git clone git@github.com:TuGithub/manual_jam.git
+git clone https://github.com/cras-1296/apoyo_desafio_guiado_20220513.git
 
 cd manual_jam
 
